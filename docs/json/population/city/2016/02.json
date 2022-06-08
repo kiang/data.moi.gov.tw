@@ -1,0 +1,2578 @@
+{
+    "6500001": {
+        "area": "新北市板橋區",
+        "households": 205669,
+        "population": 554062,
+        "male": 271058,
+        "female": 283004
+    },
+    "6500002": {
+        "area": "新北市三重區",
+        "households": 148562,
+        "population": 388400,
+        "male": 191689,
+        "female": 196711
+    },
+    "6500003": {
+        "area": "新北市中和區",
+        "households": 163066,
+        "population": 414234,
+        "male": 202159,
+        "female": 212075
+    },
+    "6500004": {
+        "area": "新北市永和區",
+        "households": 90679,
+        "population": 225350,
+        "male": 107124,
+        "female": 118226
+    },
+    "6500005": {
+        "area": "新北市新莊區",
+        "households": 149241,
+        "population": 413572,
+        "male": 202510,
+        "female": 211062
+    },
+    "6500006": {
+        "area": "新北市新店區",
+        "households": 123900,
+        "population": 300201,
+        "male": 145040,
+        "female": 155161
+    },
+    "6500007": {
+        "area": "新北市樹林區",
+        "households": 65443,
+        "population": 184347,
+        "male": 92123,
+        "female": 92224
+    },
+    "6500008": {
+        "area": "新北市鶯歌區",
+        "households": 29435,
+        "population": 87819,
+        "male": 44044,
+        "female": 43775
+    },
+    "6500009": {
+        "area": "新北市三峽區",
+        "households": 41210,
+        "population": 112913,
+        "male": 56775,
+        "female": 56138
+    },
+    "6500010": {
+        "area": "新北市淡水區",
+        "households": 70480,
+        "population": 162560,
+        "male": 78224,
+        "female": 84336
+    },
+    "6500011": {
+        "area": "新北市汐止區",
+        "households": 85035,
+        "population": 196136,
+        "male": 95932,
+        "female": 100204
+    },
+    "6500012": {
+        "area": "新北市瑞芳區",
+        "households": 16138,
+        "population": 40927,
+        "male": 20685,
+        "female": 20242
+    },
+    "6500013": {
+        "area": "新北市土城區",
+        "households": 85939,
+        "population": 238649,
+        "male": 118075,
+        "female": 120574
+    },
+    "6500014": {
+        "area": "新北市蘆洲區",
+        "households": 69531,
+        "population": 200116,
+        "male": 98514,
+        "female": 101602
+    },
+    "6500015": {
+        "area": "新北市五股區",
+        "households": 30039,
+        "population": 83077,
+        "male": 41917,
+        "female": 41160
+    },
+    "6500016": {
+        "area": "新北市泰山區",
+        "households": 28010,
+        "population": 78776,
+        "male": 39167,
+        "female": 39609
+    },
+    "6500017": {
+        "area": "新北市林口區",
+        "households": 39297,
+        "population": 100786,
+        "male": 49320,
+        "female": 51466
+    },
+    "6500018": {
+        "area": "新北市深坑區",
+        "households": 9473,
+        "population": 23623,
+        "male": 11830,
+        "female": 11793
+    },
+    "6500019": {
+        "area": "新北市石碇區",
+        "households": 3375,
+        "population": 7849,
+        "male": 4333,
+        "female": 3516
+    },
+    "6500020": {
+        "area": "新北市坪林區",
+        "households": 2496,
+        "population": 6508,
+        "male": 3622,
+        "female": 2886
+    },
+    "6500021": {
+        "area": "新北市三芝區",
+        "households": 9363,
+        "population": 23446,
+        "male": 12075,
+        "female": 11371
+    },
+    "6500022": {
+        "area": "新北市石門區",
+        "households": 4309,
+        "population": 12628,
+        "male": 6549,
+        "female": 6079
+    },
+    "6500023": {
+        "area": "新北市八里區",
+        "households": 14038,
+        "population": 37696,
+        "male": 18808,
+        "female": 18888
+    },
+    "6500024": {
+        "area": "新北市平溪區",
+        "households": 2354,
+        "population": 4871,
+        "male": 2687,
+        "female": 2184
+    },
+    "6500025": {
+        "area": "新北市雙溪區",
+        "households": 3837,
+        "population": 9215,
+        "male": 4976,
+        "female": 4239
+    },
+    "6500026": {
+        "area": "新北市貢寮區",
+        "households": 4405,
+        "population": 12840,
+        "male": 6555,
+        "female": 6285
+    },
+    "6500027": {
+        "area": "新北市金山區",
+        "households": 7031,
+        "population": 22257,
+        "male": 11024,
+        "female": 11233
+    },
+    "6500028": {
+        "area": "新北市萬里區",
+        "households": 7404,
+        "population": 22603,
+        "male": 11388,
+        "female": 11215
+    },
+    "6500029": {
+        "area": "新北市烏來區",
+        "households": 1835,
+        "population": 6199,
+        "male": 3087,
+        "female": 3112
+    },
+    "6300001": {
+        "area": "臺北市松山區",
+        "households": 80229,
+        "population": 209684,
+        "male": 98794,
+        "female": 110890
+    },
+    "6300002": {
+        "area": "臺北市信義區",
+        "households": 89460,
+        "population": 228918,
+        "male": 109668,
+        "female": 119250
+    },
+    "6300003": {
+        "area": "臺北市大安區",
+        "households": 120394,
+        "population": 313014,
+        "male": 146390,
+        "female": 166624
+    },
+    "6300004": {
+        "area": "臺北市中山區",
+        "households": 99108,
+        "population": 231309,
+        "male": 107993,
+        "female": 123316
+    },
+    "6300005": {
+        "area": "臺北市中正區",
+        "households": 65175,
+        "population": 162335,
+        "male": 77557,
+        "female": 84778
+    },
+    "6300006": {
+        "area": "臺北市大同區",
+        "households": 51527,
+        "population": 130967,
+        "male": 63988,
+        "female": 66979
+    },
+    "6300007": {
+        "area": "臺北市萬華區",
+        "households": 78336,
+        "population": 194240,
+        "male": 95818,
+        "female": 98422
+    },
+    "6300008": {
+        "area": "臺北市文山區",
+        "households": 104485,
+        "population": 275508,
+        "male": 132515,
+        "female": 142993
+    },
+    "6300009": {
+        "area": "臺北市南港區",
+        "households": 46458,
+        "population": 122252,
+        "male": 59724,
+        "female": 62528
+    },
+    "6300010": {
+        "area": "臺北市內湖區",
+        "households": 106607,
+        "population": 287645,
+        "male": 137693,
+        "female": 149952
+    },
+    "6300011": {
+        "area": "臺北市士林區",
+        "households": 106339,
+        "population": 290716,
+        "male": 140453,
+        "female": 150263
+    },
+    "6300012": {
+        "area": "臺北市北投區",
+        "households": 95717,
+        "population": 257822,
+        "male": 124446,
+        "female": 133376
+    },
+    "6800001": {
+        "area": "桃園市桃園區",
+        "households": 160048,
+        "population": 428412,
+        "male": 208632,
+        "female": 219780
+    },
+    "6800002": {
+        "area": "桃園市中壢區",
+        "households": 141748,
+        "population": 390638,
+        "male": 193058,
+        "female": 197580
+    },
+    "6800003": {
+        "area": "桃園市大溪區",
+        "households": 31460,
+        "population": 93451,
+        "male": 47877,
+        "female": 45574
+    },
+    "6800004": {
+        "area": "桃園市楊梅區",
+        "households": 55163,
+        "population": 161369,
+        "male": 81614,
+        "female": 79755
+    },
+    "6800005": {
+        "area": "桃園市蘆竹區",
+        "households": 55436,
+        "population": 155751,
+        "male": 77608,
+        "female": 78143
+    },
+    "6800006": {
+        "area": "桃園市大園區",
+        "households": 30583,
+        "population": 85687,
+        "male": 43963,
+        "female": 41724
+    },
+    "6800007": {
+        "area": "桃園市龜山區",
+        "households": 55615,
+        "population": 145825,
+        "male": 73138,
+        "female": 72687
+    },
+    "6800008": {
+        "area": "桃園市八德區",
+        "households": 66084,
+        "population": 188177,
+        "male": 94702,
+        "female": 93475
+    },
+    "6800009": {
+        "area": "桃園市龍潭區",
+        "households": 40228,
+        "population": 118786,
+        "male": 59774,
+        "female": 59012
+    },
+    "6800010": {
+        "area": "桃園市平鎮區",
+        "households": 74360,
+        "population": 218565,
+        "male": 108990,
+        "female": 109575
+    },
+    "6800011": {
+        "area": "桃園市新屋區",
+        "households": 15774,
+        "population": 48544,
+        "male": 25948,
+        "female": 22596
+    },
+    "6800012": {
+        "area": "桃園市觀音區",
+        "households": 21739,
+        "population": 64972,
+        "male": 33935,
+        "female": 31037
+    },
+    "6800013": {
+        "area": "桃園市復興區",
+        "households": 3729,
+        "population": 10971,
+        "male": 5995,
+        "female": 4976
+    },
+    "6600001": {
+        "area": "臺中市中區",
+        "households": 7900,
+        "population": 19028,
+        "male": 9495,
+        "female": 9533
+    },
+    "6600002": {
+        "area": "臺中市東區",
+        "households": 27370,
+        "population": 75190,
+        "male": 37533,
+        "female": 37657
+    },
+    "6600003": {
+        "area": "臺中市南區",
+        "households": 46789,
+        "population": 122033,
+        "male": 58762,
+        "female": 63271
+    },
+    "6600004": {
+        "area": "臺中市西區",
+        "households": 45102,
+        "population": 115808,
+        "male": 55099,
+        "female": 60709
+    },
+    "6600005": {
+        "area": "臺中市北區",
+        "households": 58552,
+        "population": 147613,
+        "male": 70812,
+        "female": 76801
+    },
+    "6600006": {
+        "area": "臺中市西屯區",
+        "households": 82542,
+        "population": 222099,
+        "male": 106961,
+        "female": 115138
+    },
+    "6600007": {
+        "area": "臺中市南屯區",
+        "households": 59799,
+        "population": 164794,
+        "male": 78953,
+        "female": 85841
+    },
+    "6600008": {
+        "area": "臺中市北屯區",
+        "households": 95068,
+        "population": 265789,
+        "male": 127896,
+        "female": 137893
+    },
+    "6600009": {
+        "area": "臺中市豐原區",
+        "households": 52672,
+        "population": 166705,
+        "male": 82513,
+        "female": 84192
+    },
+    "6600010": {
+        "area": "臺中市東勢區",
+        "households": 17280,
+        "population": 51245,
+        "male": 26391,
+        "female": 24854
+    },
+    "6600011": {
+        "area": "臺中市大甲區",
+        "households": 22733,
+        "population": 77800,
+        "male": 39218,
+        "female": 38582
+    },
+    "6600012": {
+        "area": "臺中市清水區",
+        "households": 26460,
+        "population": 86116,
+        "male": 44254,
+        "female": 41862
+    },
+    "6600013": {
+        "area": "臺中市沙鹿區",
+        "households": 28148,
+        "population": 89940,
+        "male": 45547,
+        "female": 44393
+    },
+    "6600014": {
+        "area": "臺中市梧棲區",
+        "households": 17194,
+        "population": 57188,
+        "male": 28780,
+        "female": 28408
+    },
+    "6600015": {
+        "area": "臺中市后里區",
+        "households": 15697,
+        "population": 54278,
+        "male": 27606,
+        "female": 26672
+    },
+    "6600016": {
+        "area": "臺中市神岡區",
+        "households": 18932,
+        "population": 65247,
+        "male": 33357,
+        "female": 31890
+    },
+    "6600017": {
+        "area": "臺中市潭子區",
+        "households": 35503,
+        "population": 106675,
+        "male": 52884,
+        "female": 53791
+    },
+    "6600018": {
+        "area": "臺中市大雅區",
+        "households": 28451,
+        "population": 93735,
+        "male": 46851,
+        "female": 46884
+    },
+    "6600019": {
+        "area": "臺中市新社區",
+        "households": 7511,
+        "population": 25054,
+        "male": 13030,
+        "female": 12024
+    },
+    "6600020": {
+        "area": "臺中市石岡區",
+        "households": 4892,
+        "population": 15271,
+        "male": 7934,
+        "female": 7337
+    },
+    "6600021": {
+        "area": "臺中市外埔區",
+        "households": 9422,
+        "population": 31838,
+        "male": 16347,
+        "female": 15491
+    },
+    "6600022": {
+        "area": "臺中市大安區",
+        "households": 5409,
+        "population": 19530,
+        "male": 10306,
+        "female": 9224
+    },
+    "6600023": {
+        "area": "臺中市烏日區",
+        "households": 23239,
+        "population": 72685,
+        "male": 36610,
+        "female": 36075
+    },
+    "6600024": {
+        "area": "臺中市大肚區",
+        "households": 17048,
+        "population": 56689,
+        "male": 29019,
+        "female": 27670
+    },
+    "6600025": {
+        "area": "臺中市龍井區",
+        "households": 22358,
+        "population": 76688,
+        "male": 38824,
+        "female": 37864
+    },
+    "6600026": {
+        "area": "臺中市霧峰區",
+        "households": 19752,
+        "population": 64731,
+        "male": 32931,
+        "female": 31800
+    },
+    "6600027": {
+        "area": "臺中市太平區",
+        "households": 61192,
+        "population": 184287,
+        "male": 91699,
+        "female": 92588
+    },
+    "6600028": {
+        "area": "臺中市大里區",
+        "households": 67705,
+        "population": 208816,
+        "male": 102856,
+        "female": 105960
+    },
+    "6600029": {
+        "area": "臺中市和平區",
+        "households": 4438,
+        "population": 10689,
+        "male": 5731,
+        "female": 4958
+    },
+    "6700001": {
+        "area": "臺南市新營區",
+        "households": 28704,
+        "population": 78249,
+        "male": 38751,
+        "female": 39498
+    },
+    "6700002": {
+        "area": "臺南市鹽水區",
+        "households": 10082,
+        "population": 26067,
+        "male": 13626,
+        "female": 12441
+    },
+    "6700003": {
+        "area": "臺南市白河區",
+        "households": 10908,
+        "population": 29207,
+        "male": 15286,
+        "female": 13921
+    },
+    "6700004": {
+        "area": "臺南市柳營區",
+        "households": 7840,
+        "population": 21568,
+        "male": 11262,
+        "female": 10306
+    },
+    "6700005": {
+        "area": "臺南市後壁區",
+        "households": 8887,
+        "population": 24246,
+        "male": 12579,
+        "female": 11667
+    },
+    "6700006": {
+        "area": "臺南市東山區",
+        "households": 8251,
+        "population": 21541,
+        "male": 11427,
+        "female": 10114
+    },
+    "6700007": {
+        "area": "臺南市麻豆區",
+        "households": 15604,
+        "population": 44967,
+        "male": 22822,
+        "female": 22145
+    },
+    "6700008": {
+        "area": "臺南市下營區",
+        "households": 9093,
+        "population": 24736,
+        "male": 12748,
+        "female": 11988
+    },
+    "6700009": {
+        "area": "臺南市六甲區",
+        "households": 7728,
+        "population": 22564,
+        "male": 11652,
+        "female": 10912
+    },
+    "6700010": {
+        "area": "臺南市官田區",
+        "households": 7832,
+        "population": 21626,
+        "male": 11062,
+        "female": 10564
+    },
+    "6700011": {
+        "area": "臺南市大內區",
+        "households": 3909,
+        "population": 10054,
+        "male": 5381,
+        "female": 4673
+    },
+    "6700012": {
+        "area": "臺南市佳里區",
+        "households": 20417,
+        "population": 59527,
+        "male": 29517,
+        "female": 30010
+    },
+    "6700013": {
+        "area": "臺南市學甲區",
+        "households": 9656,
+        "population": 26593,
+        "male": 13620,
+        "female": 12973
+    },
+    "6700014": {
+        "area": "臺南市西港區",
+        "households": 8115,
+        "population": 24881,
+        "male": 12603,
+        "female": 12278
+    },
+    "6700015": {
+        "area": "臺南市七股區",
+        "households": 8066,
+        "population": 23384,
+        "male": 12113,
+        "female": 11271
+    },
+    "6700016": {
+        "area": "臺南市將軍區",
+        "households": 7301,
+        "population": 20258,
+        "male": 10316,
+        "female": 9942
+    },
+    "6700017": {
+        "area": "臺南市北門區",
+        "households": 4315,
+        "population": 11504,
+        "male": 5824,
+        "female": 5680
+    },
+    "6700018": {
+        "area": "臺南市新化區",
+        "households": 14282,
+        "population": 43814,
+        "male": 22355,
+        "female": 21459
+    },
+    "6700019": {
+        "area": "臺南市善化區",
+        "households": 16856,
+        "population": 46972,
+        "male": 23730,
+        "female": 23242
+    },
+    "6700020": {
+        "area": "臺南市新市區",
+        "households": 11762,
+        "population": 35898,
+        "male": 18045,
+        "female": 17853
+    },
+    "6700021": {
+        "area": "臺南市安定區",
+        "households": 9857,
+        "population": 30322,
+        "male": 15549,
+        "female": 14773
+    },
+    "6700022": {
+        "area": "臺南市山上區",
+        "households": 2679,
+        "population": 7412,
+        "male": 3875,
+        "female": 3537
+    },
+    "6700023": {
+        "area": "臺南市玉井區",
+        "households": 5120,
+        "population": 14384,
+        "male": 7463,
+        "female": 6921
+    },
+    "6700024": {
+        "area": "臺南市楠西區",
+        "households": 3528,
+        "population": 10006,
+        "male": 5307,
+        "female": 4699
+    },
+    "6700025": {
+        "area": "臺南市南化區",
+        "households": 2861,
+        "population": 8864,
+        "male": 4795,
+        "female": 4069
+    },
+    "6700026": {
+        "area": "臺南市左鎮區",
+        "households": 1990,
+        "population": 5055,
+        "male": 2829,
+        "female": 2226
+    },
+    "6700027": {
+        "area": "臺南市仁德區",
+        "households": 26894,
+        "population": 73974,
+        "male": 37616,
+        "female": 36358
+    },
+    "6700028": {
+        "area": "臺南市歸仁區",
+        "households": 22279,
+        "population": 67965,
+        "male": 34558,
+        "female": 33407
+    },
+    "6700029": {
+        "area": "臺南市關廟區",
+        "households": 10976,
+        "population": 34702,
+        "male": 17920,
+        "female": 16782
+    },
+    "6700030": {
+        "area": "臺南市龍崎區",
+        "households": 1567,
+        "population": 4189,
+        "male": 2266,
+        "female": 1923
+    },
+    "6700031": {
+        "area": "臺南市永康區",
+        "households": 81913,
+        "population": 230997,
+        "male": 114044,
+        "female": 116953
+    },
+    "6700032": {
+        "area": "臺南市東區",
+        "households": 71749,
+        "population": 188772,
+        "male": 90735,
+        "female": 98037
+    },
+    "6700033": {
+        "area": "臺南市南區",
+        "households": 44940,
+        "population": 125768,
+        "male": 62496,
+        "female": 63272
+    },
+    "6700034": {
+        "area": "臺南市北區",
+        "households": 49952,
+        "population": 132744,
+        "male": 64822,
+        "female": 67922
+    },
+    "6700035": {
+        "area": "臺南市安南區",
+        "households": 61147,
+        "population": 189788,
+        "male": 95937,
+        "female": 93851
+    },
+    "6700036": {
+        "area": "臺南市安平區",
+        "households": 24874,
+        "population": 65478,
+        "male": 31133,
+        "female": 34345
+    },
+    "6700037": {
+        "area": "臺南市中西區",
+        "households": 30723,
+        "population": 77377,
+        "male": 37623,
+        "female": 39754
+    },
+    "6400001": {
+        "area": "高雄市鹽埕區",
+        "households": 10821,
+        "population": 24983,
+        "male": 12422,
+        "female": 12561
+    },
+    "6400002": {
+        "area": "高雄市鼓山區",
+        "households": 56274,
+        "population": 136774,
+        "male": 66351,
+        "female": 70423
+    },
+    "6400003": {
+        "area": "高雄市左營區",
+        "households": 77676,
+        "population": 196401,
+        "male": 94876,
+        "female": 101525
+    },
+    "6400004": {
+        "area": "高雄市楠梓區",
+        "households": 67579,
+        "population": 180301,
+        "male": 88803,
+        "female": 91498
+    },
+    "6400005": {
+        "area": "高雄市三民區",
+        "households": 135224,
+        "population": 345885,
+        "male": 167867,
+        "female": 178018
+    },
+    "6400006": {
+        "area": "高雄市新興區",
+        "households": 22654,
+        "population": 51871,
+        "male": 25020,
+        "female": 26851
+    },
+    "6400007": {
+        "area": "高雄市前金區",
+        "households": 12505,
+        "population": 27367,
+        "male": 13152,
+        "female": 14215
+    },
+    "6400008": {
+        "area": "高雄市苓雅區",
+        "households": 72230,
+        "population": 174319,
+        "male": 84216,
+        "female": 90103
+    },
+    "6400009": {
+        "area": "高雄市前鎮區",
+        "households": 78328,
+        "population": 192330,
+        "male": 94747,
+        "female": 97583
+    },
+    "6400010": {
+        "area": "高雄市旗津區",
+        "households": 11069,
+        "population": 28948,
+        "male": 15002,
+        "female": 13946
+    },
+    "6400011": {
+        "area": "高雄市小港區",
+        "households": 66570,
+        "population": 156292,
+        "male": 77859,
+        "female": 78433
+    },
+    "6400012": {
+        "area": "高雄市鳳山區",
+        "households": 137339,
+        "population": 356730,
+        "male": 175298,
+        "female": 181432
+    },
+    "6400013": {
+        "area": "高雄市林園區",
+        "households": 25575,
+        "population": 70400,
+        "male": 35699,
+        "female": 34701
+    },
+    "6400014": {
+        "area": "高雄市大寮區",
+        "households": 41397,
+        "population": 111681,
+        "male": 57363,
+        "female": 54318
+    },
+    "6400015": {
+        "area": "高雄市大樹區",
+        "households": 13419,
+        "population": 43144,
+        "male": 22163,
+        "female": 20981
+    },
+    "6400016": {
+        "area": "高雄市大社區",
+        "households": 12732,
+        "population": 34570,
+        "male": 17568,
+        "female": 17002
+    },
+    "6400017": {
+        "area": "高雄市仁武區",
+        "households": 31276,
+        "population": 82804,
+        "male": 42192,
+        "female": 40612
+    },
+    "6400018": {
+        "area": "高雄市鳥松區",
+        "households": 17752,
+        "population": 43911,
+        "male": 22324,
+        "female": 21587
+    },
+    "6400019": {
+        "area": "高雄市岡山區",
+        "households": 34647,
+        "population": 97830,
+        "male": 48634,
+        "female": 49196
+    },
+    "6400020": {
+        "area": "高雄市橋頭區",
+        "households": 13275,
+        "population": 37357,
+        "male": 19028,
+        "female": 18329
+    },
+    "6400021": {
+        "area": "高雄市燕巢區",
+        "households": 10386,
+        "population": 30047,
+        "male": 15912,
+        "female": 14135
+    },
+    "6400022": {
+        "area": "高雄市田寮區",
+        "households": 3352,
+        "population": 7430,
+        "male": 4124,
+        "female": 3306
+    },
+    "6400023": {
+        "area": "高雄市阿蓮區",
+        "households": 9361,
+        "population": 29271,
+        "male": 14765,
+        "female": 14506
+    },
+    "6400024": {
+        "area": "高雄市路竹區",
+        "households": 16818,
+        "population": 53060,
+        "male": 27102,
+        "female": 25958
+    },
+    "6400025": {
+        "area": "高雄市湖內區",
+        "households": 10586,
+        "population": 29581,
+        "male": 15094,
+        "female": 14487
+    },
+    "6400026": {
+        "area": "高雄市茄萣區",
+        "households": 10466,
+        "population": 30461,
+        "male": 15740,
+        "female": 14721
+    },
+    "6400027": {
+        "area": "高雄市永安區",
+        "households": 5729,
+        "population": 14116,
+        "male": 7082,
+        "female": 7034
+    },
+    "6400028": {
+        "area": "高雄市彌陀區",
+        "households": 6762,
+        "population": 19659,
+        "male": 10138,
+        "female": 9521
+    },
+    "6400029": {
+        "area": "高雄市梓官區",
+        "households": 12567,
+        "population": 36367,
+        "male": 18779,
+        "female": 17588
+    },
+    "6400030": {
+        "area": "高雄市旗山區",
+        "households": 13836,
+        "population": 37682,
+        "male": 19526,
+        "female": 18156
+    },
+    "6400031": {
+        "area": "高雄市美濃區",
+        "households": 14584,
+        "population": 40768,
+        "male": 21374,
+        "female": 19394
+    },
+    "6400032": {
+        "area": "高雄市六龜區",
+        "households": 5627,
+        "population": 13421,
+        "male": 7228,
+        "female": 6193
+    },
+    "6400033": {
+        "area": "高雄市甲仙區",
+        "households": 2357,
+        "population": 6252,
+        "male": 3329,
+        "female": 2923
+    },
+    "6400034": {
+        "area": "高雄市杉林區",
+        "households": 4803,
+        "population": 12363,
+        "male": 6756,
+        "female": 5607
+    },
+    "6400035": {
+        "area": "高雄市內門區",
+        "households": 5077,
+        "population": 14928,
+        "male": 8079,
+        "female": 6849
+    },
+    "6400036": {
+        "area": "高雄市茂林區",
+        "households": 584,
+        "population": 1893,
+        "male": 933,
+        "female": 960
+    },
+    "6400037": {
+        "area": "高雄市桃源區",
+        "households": 1328,
+        "population": 4227,
+        "male": 2218,
+        "female": 2009
+    },
+    "6400038": {
+        "area": "高雄市那瑪夏區",
+        "households": 857,
+        "population": 3150,
+        "male": 1625,
+        "female": 1525
+    },
+    "1000201": {
+        "area": "宜蘭縣宜蘭市",
+        "households": 35648,
+        "population": 96090,
+        "male": 46941,
+        "female": 49149
+    },
+    "1000202": {
+        "area": "宜蘭縣羅東鎮",
+        "households": 26062,
+        "population": 72481,
+        "male": 34427,
+        "female": 38054
+    },
+    "1000203": {
+        "area": "宜蘭縣蘇澳鎮",
+        "households": 14081,
+        "population": 40690,
+        "male": 20746,
+        "female": 19944
+    },
+    "1000204": {
+        "area": "宜蘭縣頭城鎮",
+        "households": 10131,
+        "population": 29764,
+        "male": 15351,
+        "female": 14413
+    },
+    "1000205": {
+        "area": "宜蘭縣礁溪鄉",
+        "households": 13571,
+        "population": 35792,
+        "male": 18674,
+        "female": 17118
+    },
+    "1000206": {
+        "area": "宜蘭縣壯圍鄉",
+        "households": 8542,
+        "population": 24218,
+        "male": 12825,
+        "female": 11393
+    },
+    "1000207": {
+        "area": "宜蘭縣員山鄉",
+        "households": 11514,
+        "population": 32283,
+        "male": 17137,
+        "female": 15146
+    },
+    "1000208": {
+        "area": "宜蘭縣冬山鄉",
+        "households": 18896,
+        "population": 53548,
+        "male": 27533,
+        "female": 26015
+    },
+    "1000209": {
+        "area": "宜蘭縣五結鄉",
+        "households": 14455,
+        "population": 39605,
+        "male": 20503,
+        "female": 19102
+    },
+    "1000210": {
+        "area": "宜蘭縣三星鄉",
+        "households": 8337,
+        "population": 21425,
+        "male": 11556,
+        "female": 9869
+    },
+    "1000211": {
+        "area": "宜蘭縣大同鄉",
+        "households": 1888,
+        "population": 6078,
+        "male": 3297,
+        "female": 2781
+    },
+    "1000212": {
+        "area": "宜蘭縣南澳鄉",
+        "households": 1916,
+        "population": 6021,
+        "male": 3152,
+        "female": 2869
+    },
+    "1000401": {
+        "area": "新竹縣竹北市",
+        "households": 60911,
+        "population": 171513,
+        "male": 85471,
+        "female": 86042
+    },
+    "1000404": {
+        "area": "新竹縣關西鎮",
+        "households": 9523,
+        "population": 29841,
+        "male": 15962,
+        "female": 13879
+    },
+    "1000403": {
+        "area": "新竹縣新埔鎮",
+        "households": 10664,
+        "population": 34081,
+        "male": 18154,
+        "female": 15927
+    },
+    "1000402": {
+        "area": "新竹縣竹東鎮",
+        "households": 33022,
+        "population": 96600,
+        "male": 48560,
+        "female": 48040
+    },
+    "1000405": {
+        "area": "新竹縣湖口鄉",
+        "households": 25731,
+        "population": 77323,
+        "male": 39280,
+        "female": 38043
+    },
+    "1000408": {
+        "area": "新竹縣橫山鄉",
+        "households": 4485,
+        "population": 13476,
+        "male": 7309,
+        "female": 6167
+    },
+    "1000406": {
+        "area": "新竹縣新豐鄉",
+        "households": 17821,
+        "population": 56177,
+        "male": 28819,
+        "female": 27358
+    },
+    "1000407": {
+        "area": "新竹縣芎林鄉",
+        "households": 6473,
+        "population": 20264,
+        "male": 10750,
+        "female": 9514
+    },
+    "1000410": {
+        "area": "新竹縣寶山鄉",
+        "households": 5195,
+        "population": 14296,
+        "male": 7737,
+        "female": 6559
+    },
+    "1000409": {
+        "area": "新竹縣北埔鄉",
+        "households": 3129,
+        "population": 9667,
+        "male": 5223,
+        "female": 4444
+    },
+    "1000411": {
+        "area": "新竹縣峨眉鄉",
+        "households": 2083,
+        "population": 5639,
+        "male": 3120,
+        "female": 2519
+    },
+    "1000412": {
+        "area": "新竹縣尖石鄉",
+        "households": 2845,
+        "population": 9352,
+        "male": 4955,
+        "female": 4397
+    },
+    "1000413": {
+        "area": "新竹縣五峰鄉",
+        "households": 1740,
+        "population": 4592,
+        "male": 2498,
+        "female": 2094
+    },
+    "1000501": {
+        "area": "苗栗縣苗栗市",
+        "households": 30715,
+        "population": 90371,
+        "male": 45158,
+        "female": 45213
+    },
+    "1000505": {
+        "area": "苗栗縣頭份市",
+        "households": 33556,
+        "population": 103287,
+        "male": 52123,
+        "female": 51164
+    },
+    "1000502": {
+        "area": "苗栗縣苑裡鎮",
+        "households": 14474,
+        "population": 47692,
+        "male": 24754,
+        "female": 22938
+    },
+    "1000503": {
+        "area": "苗栗縣通霄鎮",
+        "households": 11546,
+        "population": 36022,
+        "male": 19008,
+        "female": 17014
+    },
+    "1000504": {
+        "area": "苗栗縣竹南鎮",
+        "households": 27911,
+        "population": 84551,
+        "male": 42654,
+        "female": 41897
+    },
+    "1000506": {
+        "area": "苗栗縣後龍鎮",
+        "households": 11867,
+        "population": 37752,
+        "male": 19915,
+        "female": 17837
+    },
+    "1000507": {
+        "area": "苗栗縣卓蘭鎮",
+        "households": 6108,
+        "population": 17973,
+        "male": 9391,
+        "female": 8582
+    },
+    "1000508": {
+        "area": "苗栗縣大湖鄉",
+        "households": 5429,
+        "population": 15233,
+        "male": 8094,
+        "female": 7139
+    },
+    "1000509": {
+        "area": "苗栗縣公館鄉",
+        "households": 10615,
+        "population": 34505,
+        "male": 17953,
+        "female": 16552
+    },
+    "1000510": {
+        "area": "苗栗縣銅鑼鄉",
+        "households": 6146,
+        "population": 18657,
+        "male": 9878,
+        "female": 8779
+    },
+    "1000511": {
+        "area": "苗栗縣南庄鄉",
+        "households": 3974,
+        "population": 10531,
+        "male": 5802,
+        "female": 4729
+    },
+    "1000512": {
+        "area": "苗栗縣頭屋鄉",
+        "households": 3656,
+        "population": 11193,
+        "male": 5911,
+        "female": 5282
+    },
+    "1000513": {
+        "area": "苗栗縣三義鄉",
+        "households": 5478,
+        "population": 16990,
+        "male": 8916,
+        "female": 8074
+    },
+    "1000514": {
+        "area": "苗栗縣西湖鄉",
+        "households": 2677,
+        "population": 7431,
+        "male": 4136,
+        "female": 3295
+    },
+    "1000515": {
+        "area": "苗栗縣造橋鄉",
+        "households": 4131,
+        "population": 13301,
+        "male": 6984,
+        "female": 6317
+    },
+    "1000516": {
+        "area": "苗栗縣三灣鄉",
+        "households": 2414,
+        "population": 6986,
+        "male": 3824,
+        "female": 3162
+    },
+    "1000517": {
+        "area": "苗栗縣獅潭鄉",
+        "households": 1730,
+        "population": 4593,
+        "male": 2567,
+        "female": 2026
+    },
+    "1000518": {
+        "area": "苗栗縣泰安鄉",
+        "households": 1963,
+        "population": 6016,
+        "male": 3221,
+        "female": 2795
+    },
+    "1000701": {
+        "area": "彰化縣彰化市",
+        "households": 75524,
+        "population": 235104,
+        "male": 116379,
+        "female": 118725
+    },
+    "1000710": {
+        "area": "彰化縣員林市",
+        "households": 38713,
+        "population": 124954,
+        "male": 62237,
+        "female": 62717
+    },
+    "1000702": {
+        "area": "彰化縣鹿港鎮",
+        "households": 24085,
+        "population": 86516,
+        "male": 44072,
+        "female": 42444
+    },
+    "1000703": {
+        "area": "彰化縣和美鎮",
+        "households": 26316,
+        "population": 91151,
+        "male": 46504,
+        "female": 44647
+    },
+    "1000719": {
+        "area": "彰化縣北斗鎮",
+        "households": 10535,
+        "population": 33215,
+        "male": 16754,
+        "female": 16461
+    },
+    "1000711": {
+        "area": "彰化縣溪湖鎮",
+        "households": 16106,
+        "population": 55780,
+        "male": 28376,
+        "female": 27404
+    },
+    "1000712": {
+        "area": "彰化縣田中鎮",
+        "households": 13045,
+        "population": 42443,
+        "male": 21960,
+        "female": 20483
+    },
+    "1000720": {
+        "area": "彰化縣二林鎮",
+        "households": 14884,
+        "population": 51852,
+        "male": 26720,
+        "female": 25132
+    },
+    "1000704": {
+        "area": "彰化縣線西鄉",
+        "households": 4333,
+        "population": 17017,
+        "male": 8806,
+        "female": 8211
+    },
+    "1000705": {
+        "area": "彰化縣伸港鄉",
+        "households": 9657,
+        "population": 36538,
+        "male": 18665,
+        "female": 17873
+    },
+    "1000706": {
+        "area": "彰化縣福興鄉",
+        "households": 12579,
+        "population": 47590,
+        "male": 24783,
+        "female": 22807
+    },
+    "1000707": {
+        "area": "彰化縣秀水鄉",
+        "households": 10533,
+        "population": 39343,
+        "male": 20335,
+        "female": 19008
+    },
+    "1000708": {
+        "area": "彰化縣花壇鄉",
+        "households": 13856,
+        "population": 46092,
+        "male": 23689,
+        "female": 22403
+    },
+    "1000709": {
+        "area": "彰化縣芬園鄉",
+        "households": 6869,
+        "population": 23996,
+        "male": 12631,
+        "female": 11365
+    },
+    "1000713": {
+        "area": "彰化縣大村鄉",
+        "households": 10895,
+        "population": 36577,
+        "male": 18963,
+        "female": 17614
+    },
+    "1000714": {
+        "area": "彰化縣埔鹽鄉",
+        "households": 8995,
+        "population": 32860,
+        "male": 17257,
+        "female": 15603
+    },
+    "1000715": {
+        "area": "彰化縣埔心鄉",
+        "households": 10402,
+        "population": 34764,
+        "male": 17910,
+        "female": 16854
+    },
+    "1000716": {
+        "area": "彰化縣永靖鄉",
+        "households": 10848,
+        "population": 37965,
+        "male": 19745,
+        "female": 18220
+    },
+    "1000717": {
+        "area": "彰化縣社頭鄉",
+        "households": 12795,
+        "population": 43494,
+        "male": 22349,
+        "female": 21145
+    },
+    "1000718": {
+        "area": "彰化縣二水鄉",
+        "households": 5330,
+        "population": 15611,
+        "male": 8174,
+        "female": 7437
+    },
+    "1000721": {
+        "area": "彰化縣田尾鄉",
+        "households": 7891,
+        "population": 27578,
+        "male": 14250,
+        "female": 13328
+    },
+    "1000722": {
+        "area": "彰化縣埤頭鄉",
+        "households": 8943,
+        "population": 30868,
+        "male": 16026,
+        "female": 14842
+    },
+    "1000723": {
+        "area": "彰化縣芳苑鄉",
+        "households": 10125,
+        "population": 34252,
+        "male": 18124,
+        "female": 16128
+    },
+    "1000724": {
+        "area": "彰化縣大城鄉",
+        "households": 5316,
+        "population": 17498,
+        "male": 9494,
+        "female": 8004
+    },
+    "1000725": {
+        "area": "彰化縣竹塘鄉",
+        "households": 4622,
+        "population": 15605,
+        "male": 8236,
+        "female": 7369
+    },
+    "1000726": {
+        "area": "彰化縣溪州鄉",
+        "households": 8924,
+        "population": 30546,
+        "male": 16004,
+        "female": 14542
+    },
+    "1000801": {
+        "area": "南投縣南投市",
+        "households": 34472,
+        "population": 101507,
+        "male": 50915,
+        "female": 50592
+    },
+    "1000802": {
+        "area": "南投縣埔里鎮",
+        "households": 28922,
+        "population": 82095,
+        "male": 41160,
+        "female": 40935
+    },
+    "1000803": {
+        "area": "南投縣草屯鎮",
+        "households": 32798,
+        "population": 98745,
+        "male": 49889,
+        "female": 48856
+    },
+    "1000804": {
+        "area": "南投縣竹山鎮",
+        "households": 20017,
+        "population": 55934,
+        "male": 28726,
+        "female": 27208
+    },
+    "1000805": {
+        "area": "南投縣集集鎮",
+        "households": 4338,
+        "population": 11212,
+        "male": 5829,
+        "female": 5383
+    },
+    "1000806": {
+        "area": "南投縣名間鄉",
+        "households": 12589,
+        "population": 39533,
+        "male": 20775,
+        "female": 18758
+    },
+    "1000807": {
+        "area": "南投縣鹿谷鄉",
+        "households": 7711,
+        "population": 18159,
+        "male": 9663,
+        "female": 8496
+    },
+    "1000808": {
+        "area": "南投縣中寮鄉",
+        "households": 5654,
+        "population": 15316,
+        "male": 8326,
+        "female": 6990
+    },
+    "1000809": {
+        "area": "南投縣魚池鄉",
+        "households": 5760,
+        "population": 16287,
+        "male": 8531,
+        "female": 7756
+    },
+    "1000810": {
+        "area": "南投縣國姓鄉",
+        "households": 7303,
+        "population": 19305,
+        "male": 10465,
+        "female": 8840
+    },
+    "1000811": {
+        "area": "南投縣水里鄉",
+        "households": 7198,
+        "population": 18293,
+        "male": 9598,
+        "female": 8695
+    },
+    "1000812": {
+        "area": "南投縣信義鄉",
+        "households": 5229,
+        "population": 16452,
+        "male": 8837,
+        "female": 7615
+    },
+    "1000813": {
+        "area": "南投縣仁愛鄉",
+        "households": 4938,
+        "population": 15748,
+        "male": 8144,
+        "female": 7604
+    },
+    "1000901": {
+        "area": "雲林縣斗六市",
+        "households": 37560,
+        "population": 108431,
+        "male": 54086,
+        "female": 54345
+    },
+    "1000902": {
+        "area": "雲林縣斗南鎮",
+        "households": 15763,
+        "population": 45540,
+        "male": 23134,
+        "female": 22406
+    },
+    "1000903": {
+        "area": "雲林縣虎尾鎮",
+        "households": 24435,
+        "population": 70647,
+        "male": 35864,
+        "female": 34783
+    },
+    "1000904": {
+        "area": "雲林縣西螺鎮",
+        "households": 14484,
+        "population": 46791,
+        "male": 23758,
+        "female": 23033
+    },
+    "1000905": {
+        "area": "雲林縣土庫鎮",
+        "households": 9232,
+        "population": 29418,
+        "male": 15374,
+        "female": 14044
+    },
+    "1000906": {
+        "area": "雲林縣北港鎮",
+        "households": 15880,
+        "population": 40961,
+        "male": 21270,
+        "female": 19691
+    },
+    "1000907": {
+        "area": "雲林縣古坑鄉",
+        "households": 10949,
+        "population": 32243,
+        "male": 17006,
+        "female": 15237
+    },
+    "1000908": {
+        "area": "雲林縣大埤鄉",
+        "households": 6740,
+        "population": 19690,
+        "male": 10596,
+        "female": 9094
+    },
+    "1000909": {
+        "area": "雲林縣莿桐鄉",
+        "households": 9248,
+        "population": 29209,
+        "male": 15345,
+        "female": 13864
+    },
+    "1000910": {
+        "area": "雲林縣林內鄉",
+        "households": 5926,
+        "population": 18618,
+        "male": 9739,
+        "female": 8879
+    },
+    "1000911": {
+        "area": "雲林縣二崙鄉",
+        "households": 8912,
+        "population": 27866,
+        "male": 14923,
+        "female": 12943
+    },
+    "1000912": {
+        "area": "雲林縣崙背鄉",
+        "households": 8499,
+        "population": 25402,
+        "male": 13440,
+        "female": 11962
+    },
+    "1000913": {
+        "area": "雲林縣麥寮鄉",
+        "households": 14015,
+        "population": 44525,
+        "male": 22496,
+        "female": 22029
+    },
+    "1000914": {
+        "area": "雲林縣東勢鄉",
+        "households": 5728,
+        "population": 15362,
+        "male": 8450,
+        "female": 6912
+    },
+    "1000915": {
+        "area": "雲林縣褒忠鄉",
+        "households": 4412,
+        "population": 13327,
+        "male": 7158,
+        "female": 6169
+    },
+    "1000916": {
+        "area": "雲林縣臺西鄉",
+        "households": 8729,
+        "population": 24502,
+        "male": 13128,
+        "female": 11374
+    },
+    "1000917": {
+        "area": "雲林縣元長鄉",
+        "households": 9327,
+        "population": 26733,
+        "male": 14602,
+        "female": 12131
+    },
+    "1000918": {
+        "area": "雲林縣四湖鄉",
+        "households": 8888,
+        "population": 24621,
+        "male": 13382,
+        "female": 11239
+    },
+    "1000919": {
+        "area": "雲林縣口湖鄉",
+        "households": 9578,
+        "population": 28418,
+        "male": 15089,
+        "female": 13329
+    },
+    "1000920": {
+        "area": "雲林縣水林鄉",
+        "households": 10113,
+        "population": 26449,
+        "male": 14501,
+        "female": 11948
+    },
+    "1001001": {
+        "area": "嘉義縣太保市",
+        "households": 12403,
+        "population": 37223,
+        "male": 19135,
+        "female": 18088
+    },
+    "1001002": {
+        "area": "嘉義縣朴子市",
+        "households": 15559,
+        "population": 42918,
+        "male": 21750,
+        "female": 21168
+    },
+    "1001003": {
+        "area": "嘉義縣布袋鎮",
+        "households": 10019,
+        "population": 27864,
+        "male": 14239,
+        "female": 13625
+    },
+    "1001004": {
+        "area": "嘉義縣大林鎮",
+        "households": 11371,
+        "population": 31638,
+        "male": 16203,
+        "female": 15435
+    },
+    "1001005": {
+        "area": "嘉義縣民雄鄉",
+        "households": 24444,
+        "population": 71890,
+        "male": 36830,
+        "female": 35060
+    },
+    "1001006": {
+        "area": "嘉義縣溪口鄉",
+        "households": 5384,
+        "population": 15083,
+        "male": 8067,
+        "female": 7016
+    },
+    "1001007": {
+        "area": "嘉義縣新港鄉",
+        "households": 10633,
+        "population": 32746,
+        "male": 17287,
+        "female": 15459
+    },
+    "1001008": {
+        "area": "嘉義縣六腳鄉",
+        "households": 8969,
+        "population": 24137,
+        "male": 12820,
+        "female": 11317
+    },
+    "1001009": {
+        "area": "嘉義縣東石鄉",
+        "households": 9356,
+        "population": 25669,
+        "male": 13612,
+        "female": 12057
+    },
+    "1001010": {
+        "area": "嘉義縣義竹鄉",
+        "households": 7499,
+        "population": 19195,
+        "male": 9980,
+        "female": 9215
+    },
+    "1001011": {
+        "area": "嘉義縣鹿草鄉",
+        "households": 5781,
+        "population": 16062,
+        "male": 8626,
+        "female": 7436
+    },
+    "1001012": {
+        "area": "嘉義縣水上鄉",
+        "households": 17922,
+        "population": 50322,
+        "male": 26000,
+        "female": 24322
+    },
+    "1001013": {
+        "area": "嘉義縣中埔鄉",
+        "households": 15952,
+        "population": 45701,
+        "male": 23764,
+        "female": 21937
+    },
+    "1001014": {
+        "area": "嘉義縣竹崎鄉",
+        "households": 11701,
+        "population": 36482,
+        "male": 19491,
+        "female": 16991
+    },
+    "1001015": {
+        "area": "嘉義縣梅山鄉",
+        "households": 6767,
+        "population": 19969,
+        "male": 10620,
+        "female": 9349
+    },
+    "1001016": {
+        "area": "嘉義縣番路鄉",
+        "households": 4303,
+        "population": 11838,
+        "male": 6404,
+        "female": 5434
+    },
+    "1001017": {
+        "area": "嘉義縣大埔鄉",
+        "households": 1939,
+        "population": 4610,
+        "male": 2406,
+        "female": 2204
+    },
+    "1001018": {
+        "area": "嘉義縣阿里山鄉",
+        "households": 1962,
+        "population": 5698,
+        "male": 3014,
+        "female": 2684
+    },
+    "1001301": {
+        "area": "屏東縣屏東市",
+        "households": 73719,
+        "population": 202405,
+        "male": 100445,
+        "female": 101960
+    },
+    "1001302": {
+        "area": "屏東縣潮州鎮",
+        "households": 19209,
+        "population": 54691,
+        "male": 27390,
+        "female": 27301
+    },
+    "1001303": {
+        "area": "屏東縣東港鎮",
+        "households": 16441,
+        "population": 48188,
+        "male": 24364,
+        "female": 23824
+    },
+    "1001304": {
+        "area": "屏東縣恆春鎮",
+        "households": 11368,
+        "population": 30853,
+        "male": 15809,
+        "female": 15044
+    },
+    "1001305": {
+        "area": "屏東縣萬丹鄉",
+        "households": 14822,
+        "population": 51578,
+        "male": 26708,
+        "female": 24870
+    },
+    "1001306": {
+        "area": "屏東縣長治鄉",
+        "households": 10032,
+        "population": 30303,
+        "male": 15788,
+        "female": 14515
+    },
+    "1001307": {
+        "area": "屏東縣麟洛鄉",
+        "households": 3763,
+        "population": 11249,
+        "male": 5846,
+        "female": 5403
+    },
+    "1001308": {
+        "area": "屏東縣九如鄉",
+        "households": 6850,
+        "population": 22081,
+        "male": 11441,
+        "female": 10640
+    },
+    "1001309": {
+        "area": "屏東縣里港鄉",
+        "households": 8147,
+        "population": 27049,
+        "male": 13760,
+        "female": 13289
+    },
+    "1001310": {
+        "area": "屏東縣鹽埔鄉",
+        "households": 7842,
+        "population": 26374,
+        "male": 13716,
+        "female": 12658
+    },
+    "1001311": {
+        "area": "屏東縣高樹鄉",
+        "households": 9364,
+        "population": 25096,
+        "male": 13339,
+        "female": 11757
+    },
+    "1001312": {
+        "area": "屏東縣萬巒鄉",
+        "households": 6490,
+        "population": 20762,
+        "male": 10873,
+        "female": 9889
+    },
+    "1001313": {
+        "area": "屏東縣內埔鄉",
+        "households": 18508,
+        "population": 55581,
+        "male": 28783,
+        "female": 26798
+    },
+    "1001314": {
+        "area": "屏東縣竹田鄉",
+        "households": 5658,
+        "population": 17518,
+        "male": 9286,
+        "female": 8232
+    },
+    "1001315": {
+        "area": "屏東縣新埤鄉",
+        "households": 3423,
+        "population": 10046,
+        "male": 5350,
+        "female": 4696
+    },
+    "1001316": {
+        "area": "屏東縣枋寮鄉",
+        "households": 8535,
+        "population": 25067,
+        "male": 13147,
+        "female": 11920
+    },
+    "1001317": {
+        "area": "屏東縣新園鄉",
+        "households": 11752,
+        "population": 36071,
+        "male": 18678,
+        "female": 17393
+    },
+    "1001318": {
+        "area": "屏東縣崁頂鄉",
+        "households": 4466,
+        "population": 16130,
+        "male": 8183,
+        "female": 7947
+    },
+    "1001319": {
+        "area": "屏東縣林邊鄉",
+        "households": 6887,
+        "population": 18765,
+        "male": 9638,
+        "female": 9127
+    },
+    "1001320": {
+        "area": "屏東縣南州鄉",
+        "households": 3686,
+        "population": 10857,
+        "male": 5574,
+        "female": 5283
+    },
+    "1001321": {
+        "area": "屏東縣佳冬鄉",
+        "households": 6977,
+        "population": 19855,
+        "male": 10322,
+        "female": 9533
+    },
+    "1001322": {
+        "area": "屏東縣琉球鄉",
+        "households": 4351,
+        "population": 12466,
+        "male": 6850,
+        "female": 5616
+    },
+    "1001323": {
+        "area": "屏東縣車城鄉",
+        "households": 3479,
+        "population": 8880,
+        "male": 4793,
+        "female": 4087
+    },
+    "1001324": {
+        "area": "屏東縣滿州鄉",
+        "households": 3004,
+        "population": 7975,
+        "male": 4375,
+        "female": 3600
+    },
+    "1001325": {
+        "area": "屏東縣枋山鄉",
+        "households": 2134,
+        "population": 5626,
+        "male": 2991,
+        "female": 2635
+    },
+    "1001326": {
+        "area": "屏東縣三地門鄉",
+        "households": 2291,
+        "population": 7698,
+        "male": 3888,
+        "female": 3810
+    },
+    "1001327": {
+        "area": "屏東縣霧臺鄉",
+        "households": 1056,
+        "population": 3329,
+        "male": 1707,
+        "female": 1622
+    },
+    "1001328": {
+        "area": "屏東縣瑪家鄉",
+        "households": 2023,
+        "population": 6775,
+        "male": 3460,
+        "female": 3315
+    },
+    "1001329": {
+        "area": "屏東縣泰武鄉",
+        "households": 1316,
+        "population": 5218,
+        "male": 2743,
+        "female": 2475
+    },
+    "1001330": {
+        "area": "屏東縣來義鄉",
+        "households": 2233,
+        "population": 7564,
+        "male": 3854,
+        "female": 3710
+    },
+    "1001331": {
+        "area": "屏東縣春日鄉",
+        "households": 1356,
+        "population": 4807,
+        "male": 2467,
+        "female": 2340
+    },
+    "1001332": {
+        "area": "屏東縣獅子鄉",
+        "households": 1531,
+        "population": 4795,
+        "male": 2483,
+        "female": 2312
+    },
+    "1001333": {
+        "area": "屏東縣牡丹鄉",
+        "households": 1868,
+        "population": 4756,
+        "male": 2439,
+        "female": 2317
+    },
+    "1001401": {
+        "area": "臺東縣臺東市",
+        "households": 39320,
+        "population": 106756,
+        "male": 53633,
+        "female": 53123
+    },
+    "1001402": {
+        "area": "臺東縣成功鎮",
+        "households": 5427,
+        "population": 14589,
+        "male": 7712,
+        "female": 6877
+    },
+    "1001403": {
+        "area": "臺東縣關山鎮",
+        "households": 3199,
+        "population": 8903,
+        "male": 4673,
+        "female": 4230
+    },
+    "1001404": {
+        "area": "臺東縣卑南鄉",
+        "households": 6655,
+        "population": 17491,
+        "male": 9270,
+        "female": 8221
+    },
+    "1001410": {
+        "area": "臺東縣大武鄉",
+        "households": 2516,
+        "population": 6288,
+        "male": 3284,
+        "female": 3004
+    },
+    "1001409": {
+        "area": "臺東縣太麻里鄉",
+        "households": 4621,
+        "population": 11316,
+        "male": 6016,
+        "female": 5300
+    },
+    "1001407": {
+        "area": "臺東縣東河鄉",
+        "households": 3765,
+        "population": 8812,
+        "male": 4852,
+        "female": 3960
+    },
+    "1001408": {
+        "area": "臺東縣長濱鄉",
+        "households": 2922,
+        "population": 7547,
+        "male": 4280,
+        "female": 3267
+    },
+    "1001405": {
+        "area": "臺東縣鹿野鄉",
+        "households": 3075,
+        "population": 8084,
+        "male": 4327,
+        "female": 3757
+    },
+    "1001406": {
+        "area": "臺東縣池上鄉",
+        "households": 3234,
+        "population": 8496,
+        "male": 4437,
+        "female": 4059
+    },
+    "1001411": {
+        "area": "臺東縣綠島鄉",
+        "households": 1085,
+        "population": 3759,
+        "male": 1960,
+        "female": 1799
+    },
+    "1001413": {
+        "area": "臺東縣延平鄉",
+        "households": 1073,
+        "population": 3560,
+        "male": 1909,
+        "female": 1651
+    },
+    "1001412": {
+        "area": "臺東縣海端鄉",
+        "households": 1089,
+        "population": 4305,
+        "male": 2299,
+        "female": 2006
+    },
+    "1001415": {
+        "area": "臺東縣達仁鄉",
+        "households": 1448,
+        "population": 3589,
+        "male": 1953,
+        "female": 1636
+    },
+    "1001414": {
+        "area": "臺東縣金峰鄉",
+        "households": 1105,
+        "population": 3579,
+        "male": 1849,
+        "female": 1730
+    },
+    "1001416": {
+        "area": "臺東縣蘭嶼鄉",
+        "households": 1786,
+        "population": 5044,
+        "male": 2546,
+        "female": 2498
+    },
+    "1001501": {
+        "area": "花蓮縣花蓮市",
+        "households": 41397,
+        "population": 105671,
+        "male": 51172,
+        "female": 54499
+    },
+    "1001502": {
+        "area": "花蓮縣鳳林鎮",
+        "households": 4409,
+        "population": 11090,
+        "male": 5802,
+        "female": 5288
+    },
+    "1001503": {
+        "area": "花蓮縣玉里鎮",
+        "households": 8915,
+        "population": 24939,
+        "male": 13328,
+        "female": 11611
+    },
+    "1001504": {
+        "area": "花蓮縣新城鄉",
+        "households": 7616,
+        "population": 20185,
+        "male": 10428,
+        "female": 9757
+    },
+    "1001505": {
+        "area": "花蓮縣吉安鄉",
+        "households": 31489,
+        "population": 83310,
+        "male": 42156,
+        "female": 41154
+    },
+    "1001506": {
+        "area": "花蓮縣壽豐鄉",
+        "households": 7065,
+        "population": 18153,
+        "male": 9693,
+        "female": 8460
+    },
+    "1001507": {
+        "area": "花蓮縣光復鄉",
+        "households": 5030,
+        "population": 13180,
+        "male": 7007,
+        "female": 6173
+    },
+    "1001508": {
+        "area": "花蓮縣豐濱鄉",
+        "households": 1723,
+        "population": 4541,
+        "male": 2527,
+        "female": 2014
+    },
+    "1001509": {
+        "area": "花蓮縣瑞穗鄉",
+        "households": 4710,
+        "population": 11910,
+        "male": 6412,
+        "female": 5498
+    },
+    "1001510": {
+        "area": "花蓮縣富里鄉",
+        "households": 4008,
+        "population": 10639,
+        "male": 5807,
+        "female": 4832
+    },
+    "1001511": {
+        "area": "花蓮縣秀林鄉",
+        "households": 4760,
+        "population": 15702,
+        "male": 8118,
+        "female": 7584
+    },
+    "1001512": {
+        "area": "花蓮縣萬榮鄉",
+        "households": 2077,
+        "population": 6432,
+        "male": 3395,
+        "female": 3037
+    },
+    "1001513": {
+        "area": "花蓮縣卓溪鄉",
+        "households": 1681,
+        "population": 6049,
+        "male": 3321,
+        "female": 2728
+    },
+    "1001601": {
+        "area": "澎湖縣馬公市",
+        "households": 23587,
+        "population": 61032,
+        "male": 31076,
+        "female": 29956
+    },
+    "1001602": {
+        "area": "澎湖縣湖西鄉",
+        "households": 5447,
+        "population": 14384,
+        "male": 7619,
+        "female": 6765
+    },
+    "1001603": {
+        "area": "澎湖縣白沙鄉",
+        "households": 3341,
+        "population": 9693,
+        "male": 5087,
+        "female": 4606
+    },
+    "1001604": {
+        "area": "澎湖縣西嶼鄉",
+        "households": 2944,
+        "population": 8405,
+        "male": 4324,
+        "female": 4081
+    },
+    "1001605": {
+        "area": "澎湖縣望安鄉",
+        "households": 1978,
+        "population": 5094,
+        "male": 2735,
+        "female": 2359
+    },
+    "1001606": {
+        "area": "澎湖縣七美鄉",
+        "households": 1326,
+        "population": 3728,
+        "male": 1934,
+        "female": 1794
+    },
+    "1001701": {
+        "area": "基隆市中正區",
+        "households": 22483,
+        "population": 52709,
+        "male": 26956,
+        "female": 25753
+    },
+    "1001702": {
+        "area": "基隆市七堵區",
+        "households": 21123,
+        "population": 54053,
+        "male": 27290,
+        "female": 26763
+    },
+    "1001703": {
+        "area": "基隆市暖暖區",
+        "households": 15411,
+        "population": 38397,
+        "male": 19333,
+        "female": 19064
+    },
+    "1001704": {
+        "area": "基隆市仁愛區",
+        "households": 19333,
+        "population": 45500,
+        "male": 22469,
+        "female": 23031
+    },
+    "1001705": {
+        "area": "基隆市中山區",
+        "households": 19236,
+        "population": 48332,
+        "male": 24579,
+        "female": 23753
+    },
+    "1001706": {
+        "area": "基隆市安樂區",
+        "households": 32317,
+        "population": 81289,
+        "male": 40455,
+        "female": 40834
+    },
+    "1001707": {
+        "area": "基隆市信義區",
+        "households": 20981,
+        "population": 51634,
+        "male": 25720,
+        "female": 25914
+    },
+    "1001801": {
+        "area": "新竹市東區",
+        "households": 76441,
+        "population": 208100,
+        "male": 102557,
+        "female": 105543
+    },
+    "1001802": {
+        "area": "新竹市北區",
+        "households": 54993,
+        "population": 149279,
+        "male": 73105,
+        "female": 76174
+    },
+    "1001803": {
+        "area": "新竹市香山區",
+        "households": 26247,
+        "population": 76900,
+        "male": 39181,
+        "female": 37719
+    },
+    "1002001": {
+        "area": "嘉義市東區",
+        "households": 45258,
+        "population": 122837,
+        "male": 59423,
+        "female": 63414
+    },
+    "1002002": {
+        "area": "嘉義市西區",
+        "households": 53364,
+        "population": 147460,
+        "male": 72383,
+        "female": 75077
+    },
+    "0902001": {
+        "area": "金門縣金城鎮",
+        "households": 12689,
+        "population": 42379,
+        "male": 21268,
+        "female": 21111
+    },
+    "0902003": {
+        "area": "金門縣金湖鎮",
+        "households": 8599,
+        "population": 28430,
+        "male": 14317,
+        "female": 14113
+    },
+    "0902002": {
+        "area": "金門縣金沙鎮",
+        "households": 6167,
+        "population": 20091,
+        "male": 9951,
+        "female": 10140
+    },
+    "0902004": {
+        "area": "金門縣金寧鄉",
+        "households": 8009,
+        "population": 28946,
+        "male": 14608,
+        "female": 14338
+    },
+    "0902005": {
+        "area": "金門縣烈嶼鄉",
+        "households": 3076,
+        "population": 12454,
+        "male": 6185,
+        "female": 6269
+    },
+    "0902006": {
+        "area": "金門縣烏坵鄉",
+        "households": 133,
+        "population": 660,
+        "male": 330,
+        "female": 330
+    },
+    "0900701": {
+        "area": "連江縣南竿鄉",
+        "households": 1477,
+        "population": 7379,
+        "male": 4187,
+        "female": 3192
+    },
+    "0900702": {
+        "area": "連江縣北竿鄉",
+        "households": 502,
+        "population": 2332,
+        "male": 1298,
+        "female": 1034
+    },
+    "0900703": {
+        "area": "連江縣莒光鄉",
+        "households": 282,
+        "population": 1546,
+        "male": 921,
+        "female": 625
+    },
+    "0900704": {
+        "area": "連江縣東引鄉",
+        "households": 321,
+        "population": 1266,
+        "male": 763,
+        "female": 503
+    }
+}
