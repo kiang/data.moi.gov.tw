@@ -375,6 +375,18 @@ $codes = [
 ];
 $rawPath = dirname(__DIR__) . '/raw';
 $docsPath = dirname(__DIR__) . '/docs';
+$currentY = false;
+$sizePool = [];
+foreach (glob($rawPath . '/area/*.csv') as $sizeFile) {
+    $sizeFh = fopen($sizeFile, 'r');
+    while ($line = fgetcsv($sizeFh, 2048)) {
+        if (is_numeric($line[2])) {
+            $line[1] = str_replace([' ', '　'], '', $line[1]);
+            $sizePool[$line[1]] = floatval($line[3]);
+        }
+    }
+}
+
 foreach (glob($rawPath . '/population/*/*/data.csv') as $csvFile) {
     $parts = explode('/', $csvFile);
     array_pop($parts);
@@ -414,6 +426,7 @@ foreach (glob($rawPath . '/population/*/*/data.csv') as $csvFile) {
         if (!isset($result[$code])) {
             $result[$code] = [
                 'area' => $data['區域別'],
+                'size' => $sizePool[$data['區域別']],
                 'households' => $data['戶數'],
                 'population' => $data['人口數'],
                 'male' => $data['人口數-男'],
