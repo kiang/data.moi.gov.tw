@@ -121,7 +121,11 @@ foreach ($pool as $area => $cunlis) {
     uasort($cunlis, 'cmp');
     $loopX1 = 0;
     $loopX2 = 200;
+    $count = 0;
     foreach ($cunlis as $cunli => $data) {
+        if (++$count > 44) {
+            continue;
+        }
         $report .= strtr($cunliTemplate, [
             '{{loop_x1}}' => $loopX1,
             '{{loop_x2}}' => $loopX2,
