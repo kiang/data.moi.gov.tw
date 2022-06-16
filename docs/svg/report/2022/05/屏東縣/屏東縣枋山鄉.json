@@ -1,0 +1,80 @@
+{
+    "area": {
+        "new_death": 8,
+        "new_population": 13,
+        "new_birth": 2,
+        "sum_death": 35,
+        "sum_population": 21,
+        "sum_birth": 5
+    },
+    "cunli": {
+        "善餘村": {
+            "11012": "897",
+            "11104": "909",
+            "11105": "918",
+            "11101_birth_total": "0",
+            "11101_death_total": "1",
+            "11102_birth_total": "0",
+            "11102_death_total": "3",
+            "11103_birth_total": "0",
+            "11103_death_total": "3",
+            "11104_birth_total": "0",
+            "11104_death_total": "3",
+            "11105_birth_total": "1",
+            "11105_death_total": "1",
+            "new_population": 9,
+            "sum_population": 21
+        },
+        "枋山村": {
+            "11012": "1083",
+            "11104": "1089",
+            "11105": "1093",
+            "11101_birth_total": "0",
+            "11101_death_total": "1",
+            "11102_birth_total": "0",
+            "11102_death_total": "0",
+            "11103_birth_total": "0",
+            "11103_death_total": "0",
+            "11104_birth_total": "0",
+            "11104_death_total": "0",
+            "11105_birth_total": "0",
+            "11105_death_total": "0",
+            "new_population": 4,
+            "sum_population": 10
+        },
+        "加祿村": {
+            "11012": "2101",
+            "11104": "2104",
+            "11105": "2098",
+            "11101_birth_total": "1",
+            "11101_death_total": "1",
+            "11102_birth_total": "0",
+            "11102_death_total": "3",
+            "11103_birth_total": "0",
+            "11103_death_total": "3",
+            "11104_birth_total": "1",
+            "11104_death_total": "4",
+            "11105_birth_total": "1",
+            "11105_death_total": "6",
+            "new_population": -6,
+            "sum_population": -3
+        },
+        "楓港村": {
+            "11012": "1069",
+            "11104": "1056",
+            "11105": "1062",
+            "11101_birth_total": "0",
+            "11101_death_total": "1",
+            "11102_birth_total": "1",
+            "11102_death_total": "1",
+            "11103_birth_total": "0",
+            "11103_death_total": "2",
+            "11104_birth_total": "0",
+            "11104_death_total": "1",
+            "11105_birth_total": "0",
+            "11105_death_total": "1",
+            "new_population": 6,
+            "sum_population": -7
+        }
+    }
+}

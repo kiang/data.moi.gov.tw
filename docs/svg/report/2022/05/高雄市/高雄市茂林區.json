@@ -1,0 +1,63 @@
+{
+    "area": {
+        "new_death": 0,
+        "new_population": 6,
+        "new_birth": 3,
+        "sum_death": 5,
+        "sum_population": 32,
+        "sum_birth": 13
+    },
+    "cunli": {
+        "萬山里": {
+            "11012": "406",
+            "11104": "417",
+            "11105": "422",
+            "11101_birth_total": "0",
+            "11101_death_total": "1",
+            "11102_birth_total": "1",
+            "11102_death_total": "1",
+            "11103_birth_total": "0",
+            "11103_death_total": "1",
+            "11104_birth_total": "1",
+            "11104_death_total": "0",
+            "11105_birth_total": "0",
+            "11105_death_total": "0",
+            "new_population": 5,
+            "sum_population": 16
+        },
+        "多納里": {
+            "11012": "613",
+            "11104": "623",
+            "11105": "623",
+            "11101_birth_total": "0",
+            "11101_death_total": "0",
+            "11102_birth_total": "1",
+            "11102_death_total": "0",
+            "11103_birth_total": "1",
+            "11103_death_total": "1",
+            "11104_birth_total": "2",
+            "11104_death_total": "0",
+            "11105_birth_total": "2",
+            "11105_death_total": "0",
+            "new_population": 0,
+            "sum_population": 10
+        },
+        "茂林里": {
+            "11012": "855",
+            "11104": "860",
+            "11105": "861",
+            "11101_birth_total": "1",
+            "11101_death_total": "0",
+            "11102_birth_total": "0",
+            "11102_death_total": "1",
+            "11103_birth_total": "1",
+            "11103_death_total": "0",
+            "11104_birth_total": "2",
+            "11104_death_total": "0",
+            "11105_birth_total": "1",
+            "11105_death_total": "0",
+            "new_population": 1,
+            "sum_population": 6
+        }
+    }
+}

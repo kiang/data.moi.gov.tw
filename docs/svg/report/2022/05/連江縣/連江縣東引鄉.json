@@ -1,0 +1,46 @@
+{
+    "area": {
+        "new_death": 1,
+        "new_population": 2,
+        "new_birth": 2,
+        "sum_death": 4,
+        "sum_population": 6,
+        "sum_birth": 7
+    },
+    "cunli": {
+        "中柳村": {
+            "11012": "665",
+            "11104": "692",
+            "11105": "695",
+            "11101_birth_total": "1",
+            "11101_death_total": "1",
+            "11102_birth_total": "0",
+            "11102_death_total": "0",
+            "11103_birth_total": "0",
+            "11103_death_total": "0",
+            "11104_birth_total": "1",
+            "11104_death_total": "1",
+            "11105_birth_total": "1",
+            "11105_death_total": "1",
+            "new_population": 3,
+            "sum_population": 30
+        },
+        "樂華村": {
+            "11012": "829",
+            "11104": "806",
+            "11105": "805",
+            "11101_birth_total": "1",
+            "11101_death_total": "0",
+            "11102_birth_total": "1",
+            "11102_death_total": "0",
+            "11103_birth_total": "1",
+            "11103_death_total": "0",
+            "11104_birth_total": "0",
+            "11104_death_total": "1",
+            "11105_birth_total": "1",
+            "11105_death_total": "0",
+            "new_population": -1,
+            "sum_population": -24
+        }
+    }
+}

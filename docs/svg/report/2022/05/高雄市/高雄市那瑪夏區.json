@@ -1,0 +1,63 @@
+{
+    "area": {
+        "new_death": 3,
+        "new_population": -2,
+        "new_birth": 3,
+        "sum_death": 13,
+        "sum_population": 23,
+        "sum_birth": 18
+    },
+    "cunli": {
+        "達卡努瓦里": {
+            "11012": "1731",
+            "11104": "1747",
+            "11105": "1746",
+            "11101_birth_total": "1",
+            "11101_death_total": "1",
+            "11102_birth_total": "4",
+            "11102_death_total": "0",
+            "11103_birth_total": "4",
+            "11103_death_total": "1",
+            "11104_birth_total": "1",
+            "11104_death_total": "1",
+            "11105_birth_total": "2",
+            "11105_death_total": "2",
+            "new_population": -1,
+            "sum_population": 15
+        },
+        "瑪雅里": {
+            "11012": "798",
+            "11104": "810",
+            "11105": "810",
+            "11101_birth_total": "3",
+            "11101_death_total": "0",
+            "11102_birth_total": "0",
+            "11102_death_total": "2",
+            "11103_birth_total": "1",
+            "11103_death_total": "1",
+            "11104_birth_total": "0",
+            "11104_death_total": "0",
+            "11105_birth_total": "1",
+            "11105_death_total": "1",
+            "new_population": 0,
+            "sum_population": 12
+        },
+        "南沙魯里": {
+            "11012": "614",
+            "11104": "611",
+            "11105": "610",
+            "11101_birth_total": "0",
+            "11101_death_total": "1",
+            "11102_birth_total": "0",
+            "11102_death_total": "2",
+            "11103_birth_total": "0",
+            "11103_death_total": "1",
+            "11104_birth_total": "1",
+            "11104_death_total": "0",
+            "11105_birth_total": "0",
+            "11105_death_total": "0",
+            "new_population": -1,
+            "sum_population": -4
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "area": {
+        "new_death": 0,
+        "new_population": 0,
+        "new_birth": 0,
+        "sum_death": 1,
+        "sum_population": -1,
+        "sum_birth": 2
+    },
+    "cunli": {
+        "大坵村": {
+            "11012": "312",
+            "11104": "316",
+            "11105": "316",
+            "11101_birth_total": "0",
+            "11101_death_total": "0",
+            "11102_birth_total": "1",
+            "11102_death_total": "0",
+            "11103_birth_total": "0",
+            "11103_death_total": "0",
+            "11104_birth_total": "0",
+            "11104_death_total": "0",
+            "11105_birth_total": "0",
+            "11105_death_total": "0",
+            "new_population": 0,
+            "sum_population": 4
+        },
+        "小坵村": {
+            "11012": "360",
+            "11104": "355",
+            "11105": "355",
+            "11101_birth_total": "0",
+            "11101_death_total": "0",
+            "11102_birth_total": "0",
+            "11102_death_total": "0",
+            "11103_birth_total": "0",
+            "11103_death_total": "1",
+            "11104_birth_total": "1",
+            "11104_death_total": "0",
+            "11105_birth_total": "0",
+            "11105_death_total": "0",
+            "new_population": 0,
+            "sum_population": -5
+        }
+    }
+}

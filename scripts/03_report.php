@@ -110,6 +110,7 @@ foreach ($pool as $area => $cunlis) {
         '{{sum_population}}' => $data['sum_population'],
         '{{sum_birth}}' => $data['sum_birth'],
     ]);
+    $areaData = $data;
     $pos = strpos($report, '{{loop_begin}}');
     $posEnd = strpos($report, '{{loop_end}}');
     $reportEnd = substr($report, $posEnd  + 14);
@@ -140,4 +141,8 @@ foreach ($pool as $area => $cunlis) {
         mkdir($svgPath, 0777, true);
     }
     file_put_contents($svgPath . '/' . $area . '.svg', $report . $reportEnd);
+    file_put_contents($svgPath . '/' . $area . '.json', json_encode([
+        'area' => $areaData,
+        'cunli' => $cunlis,
+    ], JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 }

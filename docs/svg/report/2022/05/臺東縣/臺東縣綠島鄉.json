@@ -1,0 +1,63 @@
+{
+    "area": {
+        "new_death": 2,
+        "new_population": 38,
+        "new_birth": 2,
+        "sum_death": 12,
+        "sum_population": 105,
+        "sum_birth": 9
+    },
+    "cunli": {
+        "南寮村": {
+            "11012": "1803",
+            "11104": "1865",
+            "11105": "1876",
+            "11101_birth_total": "1",
+            "11101_death_total": "0",
+            "11102_birth_total": "0",
+            "11102_death_total": "2",
+            "11103_birth_total": "1",
+            "11103_death_total": "2",
+            "11104_birth_total": "0",
+            "11104_death_total": "0",
+            "11105_birth_total": "1",
+            "11105_death_total": "2",
+            "new_population": 11,
+            "sum_population": 73
+        },
+        "公舘村": {
+            "11012": "1120",
+            "11104": "1125",
+            "11105": "1138",
+            "11101_birth_total": "0",
+            "11101_death_total": "1",
+            "11102_birth_total": "0",
+            "11102_death_total": "0",
+            "11103_birth_total": "0",
+            "11103_death_total": "2",
+            "11104_birth_total": "0",
+            "11104_death_total": "0",
+            "11105_birth_total": "0",
+            "11105_death_total": "0",
+            "new_population": 13,
+            "sum_population": 18
+        },
+        "中寮村": {
+            "11012": "1201",
+            "11104": "1201",
+            "11105": "1215",
+            "11101_birth_total": "1",
+            "11101_death_total": "2",
+            "11102_birth_total": "1",
+            "11102_death_total": "0",
+            "11103_birth_total": "1",
+            "11103_death_total": "1",
+            "11104_birth_total": "2",
+            "11104_death_total": "0",
+            "11105_birth_total": "1",
+            "11105_death_total": "0",
+            "new_population": 14,
+            "sum_population": 14
+        }
+    }
+}
